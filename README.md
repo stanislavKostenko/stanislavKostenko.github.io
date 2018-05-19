@@ -6,3 +6,5 @@ stanislavKostenko.github.io/royalevent
 stanislavKostenko.github.io/poznan
 
 stanislavKostenko.github.io/slider
+
+stanislavKostenko.github.io/githubSearch
